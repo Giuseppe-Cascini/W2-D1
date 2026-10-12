@@ -105,6 +105,10 @@ console.log(5 === "5")
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+/*  n1) 53, perchè essendo che c'è una stringa fa la concatenazione, unico operatore aritmetico delle stringhe;
+    n2) 2, perchè con il segno meno esiste solo la differenza e quindi le trasforma in number;
+    n3) credo 2, poichè può trasformare il true in number e di conseguenza fare l'addizione;
+    n4) 20, perché non c'è un operatore per le stringhe e di conseguenza li trasforma in number.
 
 /* ESERCIZIO 8 — Classificazione numero
    Variabile "n".
