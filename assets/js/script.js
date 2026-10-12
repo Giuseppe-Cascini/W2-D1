@@ -14,7 +14,7 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA */
 const NOME = 'Mario';
 const COGNOME = 'Rossi'
-console.log(`Ciao, mi chiamo ${NOME} ${COGNOME}`)
+console.log(`Ciao, mi chiamo ${NOME} ${COGNOME}`);
 /* ESERCIZIO 2 — Calcolatrice base
    Due numeri "a" e "b".
    Stampa le 6 operazioni nel formato "10 + 3 = 13":
@@ -22,6 +22,15 @@ console.log(`Ciao, mi chiamo ${NOME} ${COGNOME}`)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let a = 10;
+let b= 3;
+console.log(`La somma tra a e b è: ${a+b}`);
+console.log(`La differenza tra a e b è: ${a-b}`);
+console.log(`Il prodotto tra a e b è: ${a*b}`);
+console.log(`Il quoziente tra a e b è: ${a/b}`);
+console.log(`Il resto tra a e b è: ${a%b}`);
+console.log(`L'elevamento a potenza di due di a è: ${a**2}, mentre di b è: ${b**2}`);
+
 
 /* ESERCIZIO 3 — Età nel tempo
    const annoNascita (scegli un anno).
