@@ -137,3 +137,6 @@ const x = 5;
 const y = 5;
 const z = 5;
 console.log(`Il perimetro è: ${x+y+z}`);
+if (x === y && y===z) {
+    console.log(`Il triangolo è equilatero`)
+} 
