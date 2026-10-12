@@ -54,6 +54,10 @@ console.log(`5 anni fa avevi ${(annoCorrente-5) -annoNascita} anni`);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let eta = 25;
+let maggiorenne = eta >= 18;
+console.log(`Età: ${eta} - Maggiorenne: ${maggiorenne}`);
+
 
 /* ESERCIZIO 5 — Tipo del valore
    Cinque variabili: una string, una number, una boolean, una null, una undefined.
@@ -62,6 +66,8 @@ console.log(`5 anni fa avevi ${(annoCorrente-5) -annoNascita} anni`);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+
+
 
 /* ESERCIZIO 6 — === vs ==
    numero = 5
