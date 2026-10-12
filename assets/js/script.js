@@ -119,6 +119,10 @@ console.log(5 === "5")
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let n = 6;
+console.log(`n è pari: ${n%2===0}`);
+console.log(`n è divisibile per 3: ${n%3===0}`);
+console.log(`n è pari e divisibile per 3: ${n%2===0 && n%3}`);
 
 /* --EXTRA-- ESERCIZIO 9 — Triangolo
    Tre const "a", "b", "c" (lunghezze dei lati).
