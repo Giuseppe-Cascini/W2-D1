@@ -132,3 +132,8 @@ console.log(`n è pari e divisibile per 3: ${n%2===0 && n%3===0}`);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+//anzichè a, b, c inserirò x, y, z poichè già ho usato a,b,c
+const x = 5;
+const y = 5;
+const z = 5;
+console.log(`Il perimetro è: ${x+y+z}`);
