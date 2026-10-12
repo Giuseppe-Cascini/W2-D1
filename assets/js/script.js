@@ -139,4 +139,8 @@ const z = 5;
 console.log(`Il perimetro è: ${x+y+z}`);
 if (x === y && y===z) {
     console.log(`Il triangolo è equilatero`)
-} 
+} else if (x!==y && y!==z) {
+     console.log(`Il triangolo è scaleno`)
+} else {
+     console.log(`Il triangolo è isoscele`)
+}
