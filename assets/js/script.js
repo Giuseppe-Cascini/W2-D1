@@ -89,6 +89,11 @@ console.log(`val2 è di tipo: ${typeof val2}`);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let num = 5;
+let str = "5";
+// Dal primo confronto escirà true, perchè confronta tipo o valore(equality, confronto di uguaglianza), mentre: === (strict equality, uguaglianza stretta) confronta tipo e valore, devono esseere verificate entrambe le cose per soddisfare questa proprietà.
+console.log(5 == "5");
+console.log(5 === "5")
 
 /* ESERCIZIO 7 — Conversioni implicite
    Senza eseguire il codice, prevedi in commento il risultato di queste 4 espressioni.
