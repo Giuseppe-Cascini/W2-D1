@@ -66,6 +66,18 @@ console.log(`Età: ${eta} - Maggiorenne: ${maggiorenne}`);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let nome = "casa";
+console.log(`nome è di tipo: ${typeof nome}`);
+let numero = 5;
+console.log(`numero è di tipo: ${typeof numero}`);
+let miao = true; 
+console.log(`miao è di tipo: ${typeof miao}`);
+let val = null; 
+//type of ritorn object, per un bug storico
+console.log(`val è di tipo: ${typeof val}`);
+let val2;
+console.log(`val2 è di tipo: ${typeof val2}`);
+
 
 
 
