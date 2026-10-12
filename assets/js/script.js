@@ -40,6 +40,12 @@ console.log(`L'elevamento a potenza di due di a è: ${a**2}, mentre di b è: ${b
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+const annoNascita = 2003;
+const annoCorrente = 2026;
+console.log(`Oggi hai ${annoCorrente-annoNascita} anni`);
+console.log(`Tra 10 anni avrai ${(annoCorrente+10)-annoNascita} anni`);
+console.log(`5 anni fa avevi ${(annoCorrente-5) -annoNascita} anni`);
+
 
 /* ESERCIZIO 4 — Maggiorenne?
    Variabile "eta".
