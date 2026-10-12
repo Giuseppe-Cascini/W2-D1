@@ -14,7 +14,7 @@ REGOLE
 /* SCRIVI QUI LA TUA RISPOSTA */
 const NOME = 'Mario';
 const COGNOME = 'Rossi'
-console.log(`Ciao, mi chiamo ${NOME} ${COGNOME})
+console.log(`Ciao, mi chiamo ${NOME} ${COGNOME}`)
 /* ESERCIZIO 2 — Calcolatrice base
    Due numeri "a" e "b".
    Stampa le 6 operazioni nel formato "10 + 3 = 13":
